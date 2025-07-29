@@ -1,0 +1,15 @@
+{
+  "forestConfig": {
+    "height": 10,
+    "width": 10
+  },
+  "fireSimulationConfig": {
+    "propagationProbability": 0.5,
+    "initialFires": [
+      [4, 4],
+      [0, 8],
+      [7, 2],
+      [2, 6]
+    ]
+  }
+}
